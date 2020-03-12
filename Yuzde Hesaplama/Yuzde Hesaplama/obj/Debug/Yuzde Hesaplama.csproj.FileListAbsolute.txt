@@ -1,0 +1,12 @@
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Yuzde Hesaplama\Yuzde Hesaplama\bin\Debug\Yuzde Hesaplama.exe.config
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Yuzde Hesaplama\Yuzde Hesaplama\bin\Debug\Yuzde Hesaplama.exe
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Yuzde Hesaplama\Yuzde Hesaplama\bin\Debug\Yuzde Hesaplama.pdb
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Yuzde Hesaplama\Yuzde Hesaplama\obj\Debug\Yuzde Hesaplama.csprojResolveAssemblyReference.cache
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Yuzde Hesaplama\Yuzde Hesaplama\obj\Debug\Yuzde_Hesaplama.Form1.resources
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Yuzde Hesaplama\Yuzde Hesaplama\obj\Debug\Yuzde_Hesaplama.Properties.Resources.resources
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Yuzde Hesaplama\Yuzde Hesaplama\obj\Debug\Yuzde Hesaplama.csproj.GenerateResource.Cache
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Yuzde Hesaplama\Yuzde Hesaplama\obj\Debug\Yuzde Hesaplama.exe
+c:\users\_dangerousman\documents\visual studio 2013\Projects\Yuzde Hesaplama\Yuzde Hesaplama\obj\Debug\Yuzde Hesaplama.pdb
+D:\VB6 - C# Projelerim\Yuzde Hesaplama\Yuzde Hesaplama\bin\Debug\Yuzde Hesaplama.exe.config
+D:\VB6 - C# Projelerim\Yuzde Hesaplama\Yuzde Hesaplama\obj\Debug\Yuzde Hesaplama.exe
+D:\VB6 - C# Projelerim\Yuzde Hesaplama\Yuzde Hesaplama\obj\Debug\Yuzde Hesaplama.pdb
